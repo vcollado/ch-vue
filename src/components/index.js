@@ -1,9 +1,9 @@
-import chCatalogo from './chCatalogo/ch-catalogo';
+import chCatalogos from './chCatalogos/chCatalogos';
 import foo from './foo/foo';
 
 export default {
   components: {
-    chCatalogo,
+    chCatalogos,
     foo,
   },
 };
